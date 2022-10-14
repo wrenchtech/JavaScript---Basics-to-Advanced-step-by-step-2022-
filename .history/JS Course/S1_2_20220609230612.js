@@ -1,5 +1,5 @@
 console.clear();
-var num1 = "Hello";
+var num1 = "Helo";
 var num2 = " World";
 var num3 = "!";
 
